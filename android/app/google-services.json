@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "658768205055",
+    "firebase_url": "https://my-expense-1bf5e.firebaseio.com",
+    "project_id": "my-expense-1bf5e",
+    "storage_bucket": "my-expense-1bf5e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:658768205055:android:621ec63987a8f93be2e8ca",
+        "android_client_info": {
+          "package_name": "com.myexpense"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "658768205055-598d4cbp6ft4s28i59h0uku8lci36moh.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.myexpense",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "658768205055-l6r6he2ujosusidmhg6bncod80h2tdee.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD2hwTqUta6mnuA64DCqoutO-9Oe0uJQ7M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "658768205055-l6r6he2ujosusidmhg6bncod80h2tdee.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
