@@ -9,7 +9,7 @@ class GoogleSignOut extends React.Component {
         super(props);
         GoogleSignin.configure({
             scopes: ['email', 'profile'],
-            webClientId: '658768205055-l6r6he2ujosusidmhg6bncod80h2tdee.apps.googleusercontent.com',
+            webClientId: '',
         });
     }
 
