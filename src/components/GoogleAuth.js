@@ -12,7 +12,7 @@ class GoogleAuth extends React.Component {
     async componentDidMount() {
         GoogleSignin.configure({
             scopes: ['email', 'profile'], 
-            webClientId: '658768205055-l6r6he2ujosusidmhg6bncod80h2tdee.apps.googleusercontent.com',
+            webClientId: '',
         });
         // this.props.signingIn();
         const isSignedIn = await  GoogleSignin.isSignedIn();
